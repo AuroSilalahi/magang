@@ -1,0 +1,2 @@
+# magang
+Seluruh code magang
